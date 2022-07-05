@@ -1,4 +1,4 @@
-![NikoAuso banner image](./banner.png)
+![NikoAuso banner image](./banner.jpg)
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NikoAuso.NikoAuso)](https://github.com/NikoAuso) [![GitHub followers](https://img.shields.io/github/followers/NikoAuso.svg?style=social&label=Follow)](https://github.com/NikoAuso?tab=followers)
 
