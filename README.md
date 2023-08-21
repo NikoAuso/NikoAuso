@@ -6,7 +6,8 @@
 <h3 align="center">A passionate full stack web developer from Italy</h3>
 
 # 💫 About Me:
-📚 I'm a computer science student at the University of Camerino ([UNICAM](https://www.unicam.it/))<br>🔭 I’m currently working on [Quisviluppo.com](https://quisviluppo.com/)<br>🌱 I’m currently learning **Laravel, Java and many other**<br>⚡ Outside Tech, I love to watch films, enjoy music and explore nature outdoors.
+📚 I'm a computer science student at the University of Camerino ([UNICAM](https://www.unicam.it/))<br>
+🌱 I’m currently learning **Laravel, Java and many other**<br>⚡ Outside Tech, I love to watch films, enjoy music and explore nature outdoors.
 
 
 ## 🌐 Socials:
