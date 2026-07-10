@@ -2,17 +2,30 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Nicolò and I'm a Full Stack Web Developer from Jesi (Italy).</h2>
+<h2 align="center">Hi 👋 I'm Nicolò - Full-Stack Web Developer from Jesi, Italy</h2>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NikoAuso/NikoAuso/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/NikoAuso/NikoAuso/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=NikoAuso&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  I build backend-driven web apps and admin panels - mostly <b>Laravel + Filament + Livewire</b> -
+  and occasional project with <b>Astro</b>.<br>
+  Lately focused on <b>white-label templates</b> I can rebrand per client.
+</p>
 
 ###
+
+<h3 align="center">🚀 Featured projects</h3>
+
+| Project | What it is |
+|---|---|
+| **[100-giorni](https://github.com/NikoAuso/100-giorni)** | White-label **Laravel 13 + Filament 5** platform to run the Italian "100 Giorni alla Maturità" school event — schools, classes, t-shirt orders, pre-sales, shuttles. |
+| **[tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker)** | On-device **Android** app (**NativePHP**) that imports your TV Time library before it shuts down and keeps tracking series, episodes & movies. |
+| **[morosuite-landing](https://github.com/NikoAuso/morosuite-landing)** | White-label **Astro 7 SSR** template whose content is driven entirely by an external backend (demo mode included). |
+| **[linux-setup](https://github.com/NikoAuso/linux-setup)** | One-command, idempotent **PHP/Laravel dev environment** for Ubuntu & Fedora. |
+
+###
+
+<h3 align="center">🛠️ Stack</h3>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
@@ -138,15 +151,25 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NikoAuso/NikoAuso/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/NikoAuso/NikoAuso/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NikoAuso&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">📫 Get in touch</h3>
+
+<div align="center">
   <a href="mailto:niko.ausili@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/niko_auso/?hl=it" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nicol%C3%B2-ausili-1382bb237/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/niko_auso/?hl=it" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
 </div>
 
