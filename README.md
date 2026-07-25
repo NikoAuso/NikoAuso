@@ -18,7 +18,6 @@
 
 | Project | What it is |
 |---|---|
-| **[100-giorni](https://github.com/NikoAuso/100-giorni)** | White-label **Laravel 13 + Filament 5** platform to run the Italian "100 Giorni alla Maturità" school event — schools, classes, t-shirt orders, pre-sales, shuttles. |
 | **[tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker)** | On-device **Android** app (**NativePHP**) that imports your TV Time library before it shuts down and keeps tracking series, episodes & movies. |
 | **[morosuite-landing](https://github.com/NikoAuso/morosuite-landing)** | White-label **Astro 7 SSR** template whose content is driven entirely by an external backend (demo mode included). |
 | **[linux-setup](https://github.com/NikoAuso/linux-setup)** | One-command, idempotent **PHP/Laravel dev environment** for Ubuntu & Fedora. |
