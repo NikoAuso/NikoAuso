@@ -15,12 +15,12 @@
 
 <h3 align="center">🚀 Featured projects</h3>
 
-| Project | What it is |
-|---|---|
+| Project                                                                | What it is                                                                                                                                                                                                     |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[venue-landing-kit](https://github.com/NikoAuso/venue-landing-kit)** | Multi-vertical **Astro 7 SSR** landing kit: component catalogue + ready-made presets (pool, restaurant, bar, hotel) themed via semantic tokens, fed by an HTTP backend or committed files. Demo mode included. |
-| **[tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker)** | On-device **Android** app (**NativePHP**) that imports your TV Time library before it shuts down and keeps tracking series, episodes & movies. |
-| **[istituti-scraper](https://github.com/NikoAuso/istituti-scraper)** | Extracts the registry of **all Italian schools** from the Ministry's official open data into clean **JSON** — CLI + web UI, zero dependencies. |
-| **[linux-dev-setup](https://github.com/NikoAuso/linux-dev-setup)** | One-command, idempotent **PHP/Laravel dev environment** for Ubuntu & Fedora. |
+| **[tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker)**     | On-device **Android** app (**NativePHP**) that imports your TV Time library before it shuts down and keeps tracking series, episodes & movies.                                                                 |
+| **[istituti-scraper](https://github.com/NikoAuso/istituti-scraper)**   | Extracts the registry of **all Italian schools** from the Ministry's official open data into clean **JSON** — CLI + web UI, zero dependencies.                                                                 |
+| **[linux-dev-setup](https://github.com/NikoAuso/linux-dev-setup)**     | One-command, idempotent **PHP/Laravel dev environment** for Ubuntu & Fedora.                                                                                                                                   |
 
 ###
 
