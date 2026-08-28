@@ -7,8 +7,7 @@
 ###
 
 <p align="center">
-  I build backend-driven web apps and admin panels - mostly <b>Laravel + Filament + Livewire</b>.<br>
-  Lately focused on <b>white-label templates</b> I can rebrand per client.
+  I build backend-driven web apps and admin panels - mostly <b>Laravel + Filament + Livewire</b>.
 </p>
 
 ###
