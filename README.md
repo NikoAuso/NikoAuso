@@ -20,6 +20,7 @@
 | **[tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker)**     | On-device **Android** app (**NativePHP**) that imports your TV Time library before it shuts down and keeps tracking series, episodes & movies.                                                                 |
 | **[istituti-scraper](https://github.com/NikoAuso/istituti-scraper)**   | Extracts the registry of **all Italian schools** from the Ministry's official open data into clean **JSON** — CLI + web UI, zero dependencies.                                                                 |
 | **[linux-dev-setup](https://github.com/NikoAuso/linux-dev-setup)**     | One-command, idempotent **PHP/Laravel dev environment** for Ubuntu & Fedora.                                                                                                                                   |
+| **[caccia-laurea](https://github.com/NikoAuso/caccia-laurea)**         | **Terminal treasure hunt** for a Bioinformatics graduation party: nested password-protected zips, bash puzzles, browser quizzes and clues hidden around the room. Pure **bash** + vanilla JS, works offline.   |
 
 ###
 
